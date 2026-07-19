@@ -1,0 +1,108 @@
+# עננים ארט ג׳ודאיקה — Generative Engine Optimization Map
+
+> A fully editable product catalog website built with a detailed, professional design system. The brand uses a rich token-based color palette anchored by primary blue (#185FA5) and gold accent (#BA7517), with a dark navy sidebar, glass-effect cards, soft shadows, and RTL Hebrew typography using the GanHebrew font. The design is polished and systematic, featuring status badges, hover states, focus glows, and a gold-highlighted active sidebar — suggesting a professional B2B or retail brand with a premium, structured aesthetic.
+
+---
+
+## Pages
+
+### בית
+https://-a403fe51.zappy5.app
+חנות אונליין מובילה לפריטי יודאיקה יוקרתיים לבית הכנסת, מתנות לאירועים יהודיים ושילוט אותיות בחיתוך לייזר ו-CNC. עיצוב מוקפד, איכות ללא פשרות. כנסו עכשיו והתחילו לבחור את הפריט המושלם!
+
+### אודות
+https://-a403fe51.zappy5.app/about
+הכירו את הסיפור מאחורי עננים ארט ג׳ודאיקה — מותג יוקרתי המשלב מסורת יהודית עם עיצוב עכשווי. אנו מתמחים במתנות יודאיקה לאירועים יהודיים ופריטים מותאמים אישית. גלו את החזון שמניע כל יצירה.
+
+### התאמה אישית
+https://-a403fe51.zappy5.app/customization
+הפכו כל רעיון למציאות עם שירות ההתאמה האישית שלנו. בחרו מבין אפשרויות שילוט אותיות בחיתוך לייזר ו-CNC, מתנות לבית חדש ועוד — הכל בעבודת יד מדויקת. התחילו לעצב את הפריט הייחודי שלכם עוד היום!
+
+### גלריה
+https://-a403fe51.zappy5.app/gallery
+צפו במגוון מרהיב של פריטי יודאיקה יוקרתיים לבית הכנסת, שילוט אותיות מעוצב ומתנות לאירועים יהודיים. כל תמונה מספרת סיפור של איכות ויופי. בקרו בגלריה וקבלו השראה לפרויקט הבא שלכם!
+
+### צור קשר
+https://-a403fe51.zappy5.app/contact
+מוכנים להזמין פריטי יודאיקה יוקרתיים לבית הכנסת או מתנות מותאמות אישית? צרו קשר עם עננים ארט ג׳ודאיקה עוד היום. אנו זמינים ללוות אתכם בכל שלב, מהרעיון ועד למוצר המוגמר. שלחו הודעה ונתחיל!
+
+### Products
+https://-a403fe51.zappy5.app/products
+המוצרים שלנו - עננים ארט ג׳ודאיקה
+
+### Cart
+https://-a403fe51.zappy5.app/cart
+עגלת הקניות שלך
+
+### Checkout
+https://-a403fe51.zappy5.app/checkout
+תשלום
+
+### Login
+https://-a403fe51.zappy5.app/login
+התחברות לקוחות
+
+### Account
+https://-a403fe51.zappy5.app/account
+החשבון שלי
+
+### Order Success
+https://-a403fe51.zappy5.app/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://-a403fe51.zappy5.app/product/:slug
+פרטי המוצר - עננים ארט ג׳ודאיקה
+
+### Category
+https://-a403fe51.zappy5.app/category/:slug
+מוצרים - עננים ארט ג׳ודאיקה
+
+### תודה - עננים ארט ג׳ודאיקה
+https://-a403fe51.zappy5.app/thank-you
+עננים ארט ג׳ודאיקה - תודה - עננים ארט ג׳ודאיקה
+
+## Legal & Policy
+
+### Privacy Policy
+https://-a403fe51.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-a403fe51.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-a403fe51.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About עננים ארט ג׳ודאיקה
+A fully editable product catalog website built with a detailed, professional design system. The brand uses a rich token-based color palette anchored by primary blue (#185FA5) and gold accent (#BA7517), with a dark navy sidebar, glass-effect cards, soft shadows, and RTL Hebrew typography using the GanHebrew font. The design is polished and systematic, featuring status badges, hover states, focus glows, and a gold-highlighted active sidebar — suggesting a professional B2B or retail brand with a premium, structured aesthetic.
+
+## Target Audience
+- אספני יודאיקה
+- מנהיגי קהילות יהודיות
+- מתכנני אירועים יהודיים
+
+## Industry
+E-commerce / Product Catalog
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://-a403fe51.zappy5.app/sitemap.xml
+- Robots: https://-a403fe51.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://-a403fe51.zappy5.app/llms-full.txt
+- Products (JSON): https://-a403fe51.zappy5.app/products.json
+- Products (Google Merchant RSS): https://-a403fe51.zappy5.app/product-feed.xml
